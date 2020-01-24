@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amplify-education/FoodBot-Hackathon.git"
+    "url": "git+https://github.com/art4829/FootBot.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amplify-education/FoodBot-Hackathon/issues"
+    "url": "https://github.com/art4829/FootBot/issues"
   },
-  "homepage": "https://github.com/amplify-education/FoodBot-Hackathon#readme",
+  "homepage": "https://github.com/art4829/FootBot/#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "eslint": "^6.5.1",
