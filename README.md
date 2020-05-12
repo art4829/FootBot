@@ -1,4 +1,4 @@
-# FoodBot-Hackathon
+# FoodBot-Hackathon <img src="https://github.com/art4829/FootBot/blob/master/src/views/FoodBot.png" width="50"/>
 Slack Bot that gives you the top 4 rated places based on your desired food Cuisine!
 Utilizies Google's Places API to search food based on given location and search criterias.
 
